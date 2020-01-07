@@ -1,2 +1,1 @@
-# cloudpass
-CloudPass - CloudFlare Bypass
+# CloudPass - CloudFlare Bypass
